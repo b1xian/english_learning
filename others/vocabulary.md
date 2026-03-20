@@ -1,0 +1,211 @@
+## 家具
+- garden
+- house
+- garage
+- entrance
+- door
+- sectional
+- couch
+- living room
+- jump
+- carpet
+- rocking chair
+- television
+- televison stand
+- lamp
+- window
+- garden door
+- curtains
+- plant
+- dining room
+- table
+- kitchen
+- frige
+- mircowave
+- dish washer
+- coffee machine
+- toaster
+- sink
+- oven
+- teapot
+- drawers
+- cupboards
+- hallway
+- bathroom
+- mirror
+- toilet
+- bath
+- scale
+- bedroom
+- bed
+- pillow
+- toys
+- dreeser
+- keyboard
+- bookshelf
+- sister
+
+## 物品
+- pen
+- backpack
+- pencil
+- hairband
+- bracelet
+- watch
+- hanger
+- sock
+- pillow
+- wallet
+- tablet
+- spider
+- mug
+- cup
+- vase
+- candle
+- tomato
+- fruit
+- walnuts
+- egg
+- lolipop
+- eye
+- nose
+- hair
+- mouth
+- face
+- widow
+- glass
+
+## kitchen
+- hungary
+- thirsty
+- eat
+- bite
+- fork
+- spoon
+- Chopsticks
+- pan
+- oil
+- salt
+- mint 薄荷
+- pepper 胡椒
+- knife
+- hammer
+- cake
+- recipe 菜谱
+- peels 果皮
+- candy
+- milk
+- seasame 芝麻
+- seeds 
+- garlic 大蒜
+- powder 粉末
+- bake 烘焙
+- dish 盘子
+- 
+
+## 称呼
+- I
+- you
+- we
+- us
+- he
+- his
+- she
+- her
+- it
+
+## 动作
+- bye
+- kiss
+- good
+- bad
+- fine
+- morning
+- night
+- see
+- look
+- run
+- jump
+- what
+
+## 方位
+- brother
+- car
+- on the car
+- bad
+- boy
+- in front of the car
+- under the car
+- on the other side of the car
+- behind the car
+- in the car
+- inside the car
+- far away from the car
+- next to the car
+- above the car
+- below the car
+- near
+- nearby the car
+- over the car
+- close to the car
+
+## 感觉与情绪
+- show
+- sleepy
+- good job
+- happy
+- sad
+- angry
+- annoyed
+- excited
+- shy
+- nervous
+- bored
+- tired
+- cold
+- hot
+- ill
+- confused
+- scared
+
+## 从哪里来
+- name
+- my
+- your
+- rabbit
+- monster
+- doll
+- dog
+- cute
+- how old is your rabbit?
+- my rabbit is 5 years old
+- how old is your dog?
+- my dog is 5 months old
+- where is your monster from?
+- my monster is from America
+- where is your bunny from?
+- my bunny is from China, so she is a Chinese bunny
+
+
+## 鳄鱼
+- what are those?
+- those are toys
+- what are those?
+- those are backpacks
+- what are those?
+- those are hangles
+- what are those?
+- those are presents
+- what are those?
+- those are books
+- what are those?
+- those are plants
+- what are those?
+- those are pillows
+- waht are you?
+- I'm an alligator
+- waht are you?
+- I'm crocodile
+
+
+##
