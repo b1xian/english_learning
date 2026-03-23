@@ -584,13 +584,12 @@ but the fact of the matter is the world is getting better at an extraordinary ra
 - at a rate: 以...的速度
 
 ## 83. cherry trees
-in a city full of showy sights, these are more humble creations, standing by until that stretch in march and april when it is time to blossom.
-- showy: 
-- sight:
-- humble:
-- standing by:
-- stretch:
-- blossom:
+In a city full of showy sights, these are more humble creations, standing by until that stretch in march and april when it is time to blossom.
+- showy: 花哨的;招摇的;过分华丽的
+- sight: 所见之物;景象
+- humble: 谦虚的，谦逊的
+- stretch: 伸出;伸长;拉伸;伸展;延伸
+- blossom: 开花
 
 数字专训
 物品专训
