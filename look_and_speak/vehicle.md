@@ -1,0 +1,56 @@
+- head light
+- front bumper
+- windshield wiper
+- sun roof
+- license plate
+- engine
+- transmission / gearbox
+- battery
+- hood
+- logo
+- rim
+- wheel
+- tire
+- door
+- speaker
+- side mirror
+- turn signal / indicator
+- rearview mirror
+- steering wheel
+- airbag
+- horn
+- gear shifter
+- dashboard
+- speedometer
+- tachometer
+- rpms
+- gauge
+- ignition
+- brake pedal
+- gas pedal
+- parking brake
+- center console
+- AC vent
+- seat belt
+- headrest
+- front seats
+- driver's seat
+- sun visor
+- passenger seat
+- glove compartment
+- rear seats
+- armrest box
+- window up / down
+- trunk
+- break light
+- reverse light
+- back bumper
+
+
+- unlock
+- get in
+- honk
+- start engine
+- reverse
+- pull up
+- park
