@@ -616,6 +616,13 @@ you and I -> you anI
 internet -> inernet
 in the car -> inhe car
 
+## 88. permafrost
+These are not the dunes of the Sahara. In fact they're found beyond the Arctic Circle in the permafrost of Russia's north.
+- dune: a hill of sand near a beach or in a desert
+- Arctic Circle: 北极圈
+- permafrost: an area of land that is permanently frozen below the surface 冻土, 永冻层
+- frost: 霜
+- permanent: 永恒的
 
 
 
