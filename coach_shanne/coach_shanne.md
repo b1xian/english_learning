@@ -591,6 +591,34 @@ In a city full of showy sights, these are more humble creations, standing by unt
 - stretch: 伸出;伸长;拉伸;伸展;延伸
 - blossom: 开花
 
+## 84. Trying
+trying is having the attention to fail, you gotta scrap that word from you vocab.
+say you're gonna do it, you'll.
+- scrap: to not continue with a system or plan
+
+## 85. Crux
+well that i think that's a real crux of this issue.
+- crux: the most important or serious part of a matter, problem, or argument 关键;核心;症结
+
+## 86. Imagination
+look imagination feeds exploration, you have to imagine the possible before you can go and do it.
+- imagination: 想象力
+- feeds: 这里做 滋养 / 推动
+- exploration: 探索
+- imagine: to form or have a mental picture or idea of something
+my daughter has unlimited imagination.
+
+## 87. April 1
+s kills d
+n kills t
+l kills th
+you and I -> you anI
+internet -> inernet
+in the car -> inhe car
+
+
+
+
 数字专训
 物品专训
  

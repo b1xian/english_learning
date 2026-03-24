@@ -57,9 +57,42 @@ It doesn't has any leafs on it, since it's early spring, the branches are just s
 basically trees provide wood, and some of them also give us fruit.
 
 # 7. cup
+## what is this?
+this is a mug.
+## what does it look like?
+it's white and made of ceramic, it's about 10 centimeters tall and 5 centimeters wide / in diameter.
+and there's a handle on the side.
+## what's it used for?
+I usually use it to drink water or tea. as you can see there's still half a cup of tea in it.
+and the inside has a lot of stains. I probably should clean it or change a new one.
+- ceramic: 陶瓷
+- diameter: 直径
+- stains: 污渍
+
 # 8. phone
+## what is this?
+This is an iphone 14.
+## what does it look like?
+It's covered with a white case. there's one camera on the front and three cameras on the back.
+on the left side there're two buttons, for volume up and down, 
+and on the right side there's one button to lock and unlock the phone.
+## what's it used for?
+It's a smart phone, so you can install a lot of applications in it, to watch videos, listen to music, play games, send messages, make calls and take photos. 
+Honestly we can't really live without a smart phone nowadays.
+
 # 9. lap top
-# 10. charge
+
+# 10. charger
+## what is this?
+This is a charger.
+## what does it look like?
+It's white and has two parts - an adapter and a cable.
+the cable has two ends - one is usb connector to plugs into the adapter, 
+and the other is usb-c that goes into your device.
+## what's it used for?
+you can use it to charge things like your phone\pad\tablet or other devices with a USB-c port.
+
+
 # 11. mouse
 # 12. keyboard
 # 13. glasses wipe
