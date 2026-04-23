@@ -1,0 +1,7 @@
+hello listeners, today i'm going to talk about how to help your child to become bilingual.
+while living in a country when most people don't speak english on the daily basis, since a lot of people has purchased my e-book, in order to learn english, and then teach their kids english.
+so i feel like probably today's content is gonna be ineresting to you.
+you know i've been listening to podcast many years, and one of the portcasts that i listen to the most, 
+is called luke's english podcast.
+
+you know this is exactly my expirence learning multiple dialects, or you may call then languages, grouwing up in shenzhen. because i have to keep talking to my dad in cantonese, and keep talking to my mum in haka, because my dad doesn't speak haka, and my mum, i'm more used to talking to my mom in haka, and i also have to speak madrain to my teachers, also speaking cantonene to some of my classmates and friends, so if you're interested in raising a bilingual child, this is something probably you may want to try, but you know want, it's not gonna to be easy, in fact, it's gonna be extremely difficult,  because one of the parents need to make huge sacrifice, talking to their child in a foreign language all the time, and you know i's going to be hard to express your feeling adn emotion sometimes in a foreign language, so if you like today's video let me know in the comment section, and i would also like to hear your expirence learning foreign languages, and also different dialects growing up.

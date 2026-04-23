@@ -44,13 +44,14 @@ The brand-new BMW motorcycle cost me more than ten thousand dollars.
 
 ## 8. piercings
 German rolf buchholz is the man with the most `piercings`, he's got four hundred and fifty-three.
+- piercings: 穿孔
 
 Biyuyin is the girl with the fairest skin in her class, most parents envy her for it(having such fair skin).
 
 ## 9. satellite
 A `satellite` that was carried to space aboard the `shuttle` discovery twenty years ago,
 is about to fall to earth, but nobody knows where the `debris` will hit.
-
+- satellite: 卫星
 
 ## 10. dream
 It's a `lofty`, probably impossible goal.

@@ -94,6 +94,13 @@ you can use it to charge things like your phone\pad\tablet or other devices with
 
 
 # 11. mouse
+## what is this?
+This is a mouse.
+## what does it look like?
+It's black, made by plastic, it looks like a mouse shape, with a long cable on it's end.
+## what's it used for?
+It can be connect with a computer, and control the 
+
 # 12. keyboard
 # 13. glasses wipe
 # 14. the great wall
