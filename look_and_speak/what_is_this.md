@@ -107,6 +107,19 @@ It can be connect with a computer, and control the
 # 15. tissue
 # 16. grass草地
 
+
+# 17. road sign
+## what is this?
+This is a road sign.
+## what does it look like?
+It's tall and gray, standing by the side of the road.
+## what's it used for?
+it has an arrow pointing out the direction of the parking area, 
+and it has "parking lot" written on it both in english and chinese.
+
+
+
+
 智: means intelligence wisdom
 福: means blessing, good fortune (jackson wang has it)
 幸运: means good luck
