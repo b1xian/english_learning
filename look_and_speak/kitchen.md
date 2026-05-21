@@ -1,0 +1,13 @@
+this is the kitchen
+- ceiling light: the ceiling light is bright.
+- range hood: turn on the range hood.
+- cupboard: open the cupboard to get a cup.
+- faucet: can you turn on the faucet? (水空头)
+- sink: the sink is clean.
+- trash can: throw the trash into the trash can.
+- oven: the oven is under the stove.
+- stove: 
+- rug: there is a rug on the floor.
+- refrigerator: 
+- kettle: the kettle is boiling water. (水壶)
+- plant: there is a green plant on the refrigerator

@@ -1,0 +1,12 @@
+- pants: i wear pants today.
+- shirt: two shirts are drying in the sun.
+- socks: my socks are clean.
+- washing machine: the washing machine is working.
+- plant: 
+- basin(盆):  a blue basin is on the floor.
+- stool(凳子):  I sit on the stool.
+- cat: the cat sleeps on the balcony.
+- house work: I helped Mom with the house work.
+- bucket: 
+- mop(拖把):  the mop stands in the bucket.
+- view: the view from the balcony is very beautiful.

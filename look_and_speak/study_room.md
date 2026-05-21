@@ -1,0 +1,13 @@
+I read and study
+- book shelf: put the books on the book shelf.
+- books: 
+- lap top: the lap top is open.
+- window: the window shows the hills.
+- cabniet(抽屉柜): the cabniet is next to the window.
+- chair: the chair is next to the desk.
+- desk: 
+- floor: there is a book on the floor.
+- table: there is a book on the table.
+- rug(地毯): there is a book on the rug.
+- armchair(单人沙发): 
+- cat: a cat is sleeping on the armchair.
