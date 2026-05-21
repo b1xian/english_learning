@@ -1,0 +1,11 @@
+- bathroom sink: 
+- towel(毛巾): 
+- mirror: look, I see me in the mirror.
+- mildly wash(洗面奶): use a little face wash.
+- faucet(水龙头): turn on the faucet.
+- tooth brush : get your tooth brush.
+- cup:  rinse with your cup.
+- rinse(漱口)
+- sink: let's wash hands at the sink.
+- soap: rub the soap in your hands.
+- drawer: open the drawer.

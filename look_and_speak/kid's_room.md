@@ -1,0 +1,13 @@
+kid's room
+- curtain(窗帘): the curtain is yellow.
+- window: the sun is in the window.
+- sun: 
+- pillow: the pillow is soft.
+- blanket(毯子): the blanket is warm.
+- bed: my bed is very small.
+- book shelf: the books are on the book shelf.
+- desk: 
+- chair: the chair is next to the desk.
+- teddy bear: the teddy bear is in the toy box.
+- blocks(积木): the blocks are colorful.
+- toy box: 

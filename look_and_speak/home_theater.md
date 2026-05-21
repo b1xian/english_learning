@@ -1,0 +1,11 @@
+- home theater(家庭影院): 
+- projector(投影仪): the projector is working.
+- television: I watch cartoons on the TV.
+- cartoon: Let's watch a cartoon.
+- speaker: the speaker is loud.
+- dvd player: this  is a dvd player.
+- remote(遥控器): where is the remote.
+- pillow: I need my pillow.
+- sofa: I sit on the sofa.
+- game controller: hand me the controller.
+- popcorn: let's eat popcorn.
