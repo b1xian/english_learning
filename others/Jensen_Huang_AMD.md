@@ -2,7 +2,7 @@ I always want to go to a great school. You know, I always image getting a master
 But I never image that I could afford it. 
 During Oregon State, the recruiters came from Silicon valley. And so I took a job at AMD. And that was really a good choice because the work was really interesting, I really great colleges.
 
-And they had this program where you could goto Standford, and they pay for everything, so it was an incredicable thing so I when was being, they were pitching the offer to me. I said "hang on a second, I can work at AMD, you can pay me a good saraly, and you're gonna pay me to go to Standaford? at the same time, they said "yep".
+And they had this program where you could goto Standford, and they pay for everything, so it was an incredicable thing so I when was being, they were pitching the offer to me. I said "hang on a second, I can work at AMD, you can pay me a good saraly, and you're gonna pay me to go to Standaford at the same time? they said "yep".
 
 That's how sounds like a dream comes true I took that job. And then of course, A year later Lori graduated, we got married. And then life started, So I took some classes, took some time off, took some classes, tool some time off. And all together it must taken me some eight years to graduate. I'm probably the longest running student at Standaford. Nobody pays Standaford more. 
 

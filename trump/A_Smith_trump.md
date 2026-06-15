@@ -1,0 +1,2 @@
+You wanna talk about IQ? I could say I put my IQ above against your's any day of a week. I can go one better, I could ask you why you been run of me last year, since I want talk to you. I could ask you to debate me, since you think you add du. okay?
+We can go a million of ways with all of this. But I'm not gonna let you off the hook, because none of that is important. I do appriciate the fact you call me a nice guy, 
