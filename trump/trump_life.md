@@ -16,6 +16,20 @@ He eventually graduated at 1968, with degree in economics, ready to take on the 
 
 In the 1970s, he took on his very first major project, he helped to redevelope the Commodore Hotel in New York City. At that time the hotel was struggling and not making much money. But Donald working incredibly hard to transform it into a famous luxury destination. He later renamed it the Grand Hyatt.
 
+This specific project put Donald Trump on the map, and people began to recognize him, as a highly successful and ambitious businessman. Moving into the 1980s, Donald Trump started to building more and more famous structures. In 1983, he built the iconic Trump Tower, which is a massive skyscraper located in the heart of New York City. It was actually one of the tallest building in the city at that time, and it remains one of his greatest achivements.
+
+What made Trump Tower so special was that it combined commercial office spaces with high-end, luxury, appartments. This building quickly became a powerful symbol of his success. Soon enough, people could see his name displayed on the buildings all over the city.
+
+During the same decade, he also expanded his business into Atlantic city, a coastal town famous for its casinos.
+He bought a massive casino peoperty, and named it the Trump Taj Mahal.  When it finally opened its door at 1990, it was the largest casino in the entire world.  
+However, Donald Trump wasn't satisfied with just owning real estate and casinos.  he wanted his name to be known all over the world.
+Thoughout the 1990s,  he became a regular face on television and magazines. His bold, outspoken personality made him a very popular public figure, who was closely associated with wealth and power.
+
+Then in 2004, his fame reached a whole new level, when he started hosting a hit reality television show, called "The Apprentice".
+On this show, he would judge business competetors, and famously tell the underperforming contestants, "you're fired!" This catchy phrases made him a household name. With millions of people tuning in to watch him every single week.
+
+He also built golf courts arround the world, and put his name on various products. Turning "Trump" into a global brand. Of course, his journey wasn't always smooth sailing. Despite his massive success, he faced some serious finacial trouble in the 1990s. Some of his casinos and hotels began losing money. and he found himself owing a massive amount of money to the banks.
+He has to work extremely hard to fix these finacial problems, and keep his company afloat. But Trump never give up, he managed  to work through the challenges, restructure his debts, and eventually made his business profitable once again.
 
 - fascinating: adj. 极有吸引力的；迷人的；令人着迷的（褒义）
     fascinate（v. 使着迷）+ ing（形容词后缀）
@@ -117,3 +131,37 @@ In the 1970s, he took on his very first major project, he helped to redevelope t
     动词原形：destine 注定；指定前往
     Our destination is Manhattan. 我们的目的地是曼哈顿。
 - the Grand Hyatt: 君悦酒店
+- put somebody on the map: 使某人一举成名
+- ambitious: 有雄心的；有野心的；雄心勃勃的
+- structures: 建筑
+- iconic: 标志性的
+- skyscraper: 摩天大楼
+- combine smt with sth: 把什么和什么组合在一起
+- commercial: 商业的
+- expand: 拓展,扩展
+- Atlantic city: 大西洋城
+- coastal: 海边的,沿海的
+- satisfied: 满足于
+- real estate: 房地产
+- popular public figure: 受欢迎的公众人物
+- closely associated with wealth and power: 与财富权力密切相关
+- fame: 名气,名声
+- a hit reality television show: 一个热门的电视真人秀
+- apprentice: 学徒
+- competetors: 竞争者,竞争对手
+- famously: 著名地
+- underperforming: 表现不佳的
+- contestants: 参赛者
+- catchy phrases: 朗朗上口的句子
+- a household name: 家喻户晓的名字
+- tune in: 收听,收看
+- various: 各种各样的, 不同的
+- smooth sailing: 一帆风顺
+- owing: 欠
+- owning: 拥有
+- afloat: （经济上）能维持下去、不负债 ⭐（最常用）
+- manage to: 设法
+- challenge: 挑战
+- restructure: 重构,重建
+- eventually: 最终
+- profitable: 有利可图的, 盈利的, 有益的
