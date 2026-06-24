@@ -29,7 +29,23 @@ Then in 2004, his fame reached a whole new level, when he started hosting a hit 
 On this show, he would judge business competetors, and famously tell the underperforming contestants, "you're fired!" This catchy phrases made him a household name. With millions of people tuning in to watch him every single week.
 
 He also built golf courts arround the world, and put his name on various products. Turning "Trump" into a global brand. Of course, his journey wasn't always smooth sailing. Despite his massive success, he faced some serious finacial trouble in the 1990s. Some of his casinos and hotels began losing money. and he found himself owing a massive amount of money to the banks.
-He has to work extremely hard to fix these finacial problems, and keep his company afloat. But Trump never give up, he managed  to work through the challenges, restructure his debts, and eventually made his business profitable once again.
+He has to work extremely hard to fix these finacial problems, and keep his company afloat. But Trump never give up, he managed  to work through the challenges, restructure his debts, and eventually made his businesses profitable once again.
+
+Now, Donald Trump's life hasn't just been about television and business, he has also been married threee times and has a very large family. In 1977, he married his first wife, Ivana, a model from Czechoslovakia. she actually helped Donald manage some of his businesses. Together, they had three children, Donald Jr, Ivanka, and Eric. After fifteen years together. they divorced in 1992.
+But they managed to stay on good terms for the sake of their children.
+
+The following year, in 1993, Donald married an actress named Marla Maples. they had one daughter together, named Tiffiny. unfortunately, this marridge didn't last very long, and they divorced in 1999. Then in 2005, he married his thiod and current wife, Melania Knauss, who is a model from Slovenia, they have one son named Barron, who is the youngest of all of Donald's children.
+
+Today, all of his old children are involved in different aspects of his business. And Donald is now a grandfather to many grandchildren, whom he love spending time with. 
+
+By the early 2000s, Trump was known everywhere, as a celebraty businessman. but he also starts to show us a strong intrest in politics. he frequently talked about running for president. But it wasn't until much later that he actually took that massively leap.
+
+In 2015, Donald made a huge life-changing decision, he offcially announced that he was running for president of the United States.
+Many political experts and everyday citizens were completely surprised by this.
+
+
+
+
 
 - fascinating: adj. 极有吸引力的；迷人的；令人着迷的（褒义）
     fascinate（v. 使着迷）+ ing（形容词后缀）
