@@ -34,11 +34,11 @@ He has to work extremely hard to fix these finacial problems, and keep his compa
 Now, Donald Trump's life hasn't just been about television and business, he has also been married threee times and has a very large family. In 1977, he married his first wife, Ivana, a model from Czechoslovakia. she actually helped Donald manage some of his businesses. Together, they had three children, Donald Jr, Ivanka, and Eric. After fifteen years together. they divorced in 1992.
 But they managed to stay on good terms for the sake of their children.
 
-The following year, in 1993, Donald married an actress named Marla Maples. they had one daughter together, named Tiffiny. unfortunately, this marridge didn't last very long, and they divorced in 1999. Then in 2005, he married his thiod and current wife, Melania Knauss, who is a model from Slovenia, they have one son named Barron, who is the youngest of all of Donald's children.
+The following year, in 1993, Donald married an actress named Marla Maples. they had one daughter together, named Tiffiny. unfortunately, this marridge didn't last very long, and they divorced in 1999. Then in 2005, he married his third and current wife, Melania Knauss, who is a model from Slovenia, they have one son named Barron, who is the youngest of all of Donald's children.
 
 Today, all of his old children are involved in different aspects of his business. And Donald is now a grandfather to many grandchildren, whom he love spending time with. 
 
-By the early 2000s, Trump was known everywhere, as a celebraty businessman. but he also starts to show us a strong intrest in politics. he frequently talked about running for president. But it wasn't until much later that he actually took that massively leap.
+By the early 2000s, Trump was known everywhere, as a celebraty businessman. but he also starts to show us a strong intrest in politics. he frequently talked about running for president. But it wasn't until much later that he actually took that massive leap.
 
 In 2015, Donald made a huge life-changing decision, he offcially announced that he was running for president of the United States.
 Many political experts and everyday citizens were completely surprised by this.
@@ -176,8 +176,21 @@ Many political experts and everyday citizens were completely surprised by this.
 - owing: 欠
 - owning: 拥有
 - afloat: （经济上）能维持下去、不负债 ⭐（最常用）
-- manage to: 设法
+- manage to: 设法, manage to do sth, 好不容易、勉强做成某事（暗含过程很难、不情愿）
 - challenge: 挑战
 - restructure: 重构,重建
 - eventually: 最终
 - profitable: 有利可图的, 盈利的, 有益的
+- divorced
+- stay on good terms: 和某人保持友好 / 和睦关系, on bad terms 关系恶劣、闹僵
+- for the sake of sb/sth:  为了……、顾及……（侧重为了某个目的委屈自己）
+- involved in : 参与 
+- different aspects: 不同方面
+- celebraty businessman: 著名商人
+- frequently: 频繁地
+- it wasn't until ... that ...: 直到... 才 ...
+- much later: 许久以后
+- take a massive leap: 固定表达,迈出巨大一步
+- offcially announced: 公开声明
+- political experts: 政界专家,精英
+- everyday citizen: 普通公民
