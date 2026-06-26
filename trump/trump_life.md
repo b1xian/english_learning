@@ -41,11 +41,16 @@ Today, all of his old children are involved in different aspects of his business
 By the early 2000s, Trump was known everywhere, as a celebraty businessman. but he also starts to show us a strong intrest in politics. he frequently talked about running for president. But it wasn't until much later that he actually took that massive leap.
 
 In 2015, Donald made a huge life-changing decision, he offcially announced that he was running for president of the United States.
-Many political experts and everyday citizens were completely surprised by this.
+Many political experts and everyday citizens were completely surprised by this. Mainly because he had absolutely no prior political or military experience. but Trump was incredibely confident. He firmly believed that his decades of business experience would help him lead the country better than traditional politicians. 
+During his compaign, his main slogan was "make America Great Ggain". He promised to create more jobs for American workers, build a large wall to stop illegal immigration, and take a much tougher stand on foreign trade with other countries. 
 
+In 2016, Donald Trump shocked the entire world by winning the presidencial election, against the former secretary of the State, Hillary Clinton. even though many polls predicted she would win, Donald Trump secured enough electoral votes to become the 45th president of the United States.
 
+He serve his term from Januery 2017 to Januery 2021. During his time in white house, he focused heavily on a few key areas. First ,he worked on boosting the economy, by lowering corporate taxes, which he argued would allow businesses to create more jobs.
+He also worked a lot on immigration, he really wanted tyo build a wall on the border with Maxio, this is a very important goal for him. in terms of foreign policy, he try to negociate brand new deals with powerful countries like Russia and China. He even made a history by meeting face-to-face with North Korea leader, Kim-Jong-un, to try and stop their nuclear weapons program.
+Additionaly, he attemped to change the US heathcare system, though this proved to be a very difficult challenge. 
 
-
+His presidency was also marked by controversy, in 2019, he became one of the few presidents in history to be impeached by the House Representatives, which means he was formally accused of misconduct while in office. 
 
 - fascinating: adj. 极有吸引力的；迷人的；令人着迷的（褒义）
     fascinate（v. 使着迷）+ ing（形容词后缀）
@@ -194,3 +199,37 @@ Many political experts and everyday citizens were completely surprised by this.
 - offcially announced: 公开声明
 - political experts: 政界专家,精英
 - everyday citizen: 普通公民
+- prior: 主要的,优先的
+- confident: 自信的,坚定的(形容词 adj)
+    con-（加强）+ fid（信任）+ -ent（形容词后缀）→ 充分信任自己 → 自信的
+    同根词：confidence n. 自信；信任
+- firmly: 坚固地,牢固地
+- compaign: 作战, 参加竞选(活动)
+- slogan: 口号,标语,广告语
+- illegal immigration: 非法移民
+- foreign trade: 对外贸易, 外贸
+- election: 选举
+- former: 之前的, 以前的
+- secretary of the State: 国务卿
+- secretary: 秘书；书记员，干事；部长，大臣；（英国大使、大臣的）助理
+- poll: 民意调查, 民意测验；选举投票，计票；投票数；投票点（the polls）
+- secured: 政治语境释义：稳稳拿下、成功斩获、确保拿到（经过竞选、计票后稳稳获得足以胜选的票数 / 席位，
+    带有 “锁定胜局” 的含义，比单纯 win /get 更正式）
+    ≠ 形容词 “安全的”
+- electoral votes: 选票
+- electoral: 选举的
+- serve his term: 履行他的任期
+- corporate: 公司的,法人的. corporate taxed:企业税
+- in terms of: 就……而言；从……角度来看；就……方面而言
+- nuclear: 原子能的,原子核的
+- Additionaly: 此外, 额外的
+- presidency: 总统任期
+- marked by: 以… 为显著特征；充满…；期间屡屡发生某事, 
+    A be marked by B 是新闻书面高频表达，用来概括一段时期 / 一段生涯最突出的特点：
+- controversy:  n. 争议，舆论风波，激烈争论
+- impeached by:  遭到 : 控告,检举,弹劾
+- the House Representatives: 美国众议院
+- formally: 正式地, 正式地；按法定程序、官方流程地
+    formal（adj. 正式的）+ -ly（副词后缀）
+- accuse: 控告,指控
+- misconduct: n. 不当行为；渎职；公职人员违规行径
