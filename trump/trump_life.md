@@ -51,6 +51,8 @@ He also worked a lot on immigration, he really wanted tyo build a wall on the bo
 Additionaly, he attemped to change the US heathcare system, though this proved to be a very difficult challenge. 
 
 His presidency was also marked by controversy, in 2019, he became one of the few presidents in history to be impeached by the House Representatives, which means he was formally accused of misconduct while in office. 
+However, the Senate didn't not vote to remove him, so he compeleted his term. In 2020, Donald Trump ran for re-election against the former Vice President Joe Biden. It was a very intense and hard-fought compaign, but ultimately, Joe Biden won the election.
+
 
 - fascinating: adj. 极有吸引力的；迷人的；令人着迷的（褒义）
     fascinate（v. 使着迷）+ ing（形容词后缀）
@@ -228,8 +230,15 @@ His presidency was also marked by controversy, in 2019, he became one of the few
     A be marked by B 是新闻书面高频表达，用来概括一段时期 / 一段生涯最突出的特点：
 - controversy:  n. 争议，舆论风波，激烈争论
 - impeached by:  遭到 : 控告,检举,弹劾
-- the House Representatives: 美国众议院
+- the House of Representatives: 美国众议院,可以在语境中简称为House
 - formally: 正式地, 正式地；按法定程序、官方流程地
     formal（adj. 正式的）+ -ly（副词后缀）
 - accuse: 控告,指控
 - misconduct: n. 不当行为；渎职；公职人员违规行径
+- Senate: 参议院
+- former: 之前的, 以前的
+- Vice President: 副总统
+    vice:副的
+- intense: 强烈的, 剧烈的, 紧张的；高强度的
+- hard-fought: 艰苦奋战的,拼尽全力的
+- ultimately: 最终,到头来. 归根结底.
